@@ -1,0 +1,23 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+local.properties
+
+# Android / Kotlin / Spring Boot Build
+build/
+out/
+.gradle/
+bin/
+target/
+*.class
+*.jar
+*.apk
+
+# Entorno y SO
+.env
+Thumbs.db
+.DS_Store
+
+# Mac logs y temporales
+*.log
